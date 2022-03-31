@@ -1,2 +1,4 @@
 # MyFirstRepository
-github learning ; test project;
+Github学习项目
+
+第一次更改
